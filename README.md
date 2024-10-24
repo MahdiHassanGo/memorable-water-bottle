@@ -13,8 +13,8 @@ A dynamic bottle store website where users can browse, purchase, and remove bott
   
 ## 📸 Screenshots
 
-![Screenshot 1](link-to-screenshot1)
-![Screenshot 2](link-to-screenshot2)
+!<img src="/Bottle.png">
+
 
 ## 🛠️ Technologies Used
 
@@ -38,5 +38,5 @@ This project was part of my ongoing learning journey with **React** through the 
 Contributions are welcome! Feel free to open issues or submit pull requests for any improvements.
 
 
-## <img src="/Bottle.png">
+## 
 
